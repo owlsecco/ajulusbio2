@@ -10,8 +10,7 @@ html {
 }
 
 body {
-  background: rgb(0,0,0);
-  background: linear-gradient(180deg, rgba(0,0,0,1) 31%, rgba(158,0,255,1) 100%);
+  background-color: black;
   color: #ffffff;
   min-height: 100vh;
   text-align: center;
